@@ -59,16 +59,16 @@ Sentiment-Analysis/
 └── README.md
 
 # Installation
-Clone the repository:
-git clone https://github.com/lavanya074/Sentiment-Analysis.git
-Navigate to the project folder:
-cd Sentiment-Analysis
-Install the required libraries:
-pip install pandas numpy matplotlib seaborn nltk transformers torch scipy tqdm jupyter
-Start Jupyter Notebook:
-jupyter notebook
-Open the notebook:
-Sentiment Analysis (1).ipynb
+   Clone the repository:
+   git clone https://github.com/lavanya074/Sentiment-Analysis.git
+   Navigate to the project folder:
+   cd Sentiment-Analysis
+   Install the required libraries:
+   pip install pandas numpy matplotlib seaborn nltk transformers torch scipy tqdm jupyter
+   Start Jupyter Notebook:
+   jupyter notebook
+   Open the notebook:
+   Sentiment Analysis (1).ipynb
 
 # How to Run
 Download or place the dataset file Reviews.csv.zip in your project folder.
@@ -76,7 +76,7 @@ Open the Jupyter Notebook.
 Update the dataset path if required.
 
 
-Author
+# Author
 Lavanya
 
 License
